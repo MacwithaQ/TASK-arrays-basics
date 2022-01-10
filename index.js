@@ -27,6 +27,8 @@ console.log(hobbies[hobbies.length-1]);
 
 console.log(hobbies.length);
 
+// USE POP TO REMOVE ... Read up on pop
+
 hobbies.splice(hobbies.length-2);
 
 console.log(hobbies.length);
