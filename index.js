@@ -1,12 +1,12 @@
 const emptyArray=[];
 
 const hobbies=[
-    `musicProduction`,
-    `fishing`,
-    `coding`,
-    `videoEditing`,
-    `cooking`,
-    `reading`
+    "musicProduction",
+    "fishing",
+    "coding",
+    "videoEditing",
+    "cooking",
+    "reading"
 ];
 
 const numbers=[
@@ -21,7 +21,7 @@ console.log(numbers[1]);
 
 console.log(hobbies[hobbies.length-1]);
 
-hobbies.push(`skiing`);
+hobbies.push(["skiing"]);
 
 console.log(hobbies[hobbies.length-1]);
 
